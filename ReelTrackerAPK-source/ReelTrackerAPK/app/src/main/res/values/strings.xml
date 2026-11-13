@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reel Tracker</string>
+    <string name="service_description">Counts likely Instagram Reel screen changes and blocks Instagram when the daily limit is reached. Detection may not be exact.</string>
+</resources>
